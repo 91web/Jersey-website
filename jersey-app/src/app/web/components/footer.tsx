@@ -12,7 +12,7 @@ const Footer: React.FC = () => {
       textAlign="center"
     >
       <Typography variant="body2">
-        © {new Date().getFullYear()} My Application. All rights reserved.
+        © {new Date().getFullYear()} Jersey App. All rights reserved. | Yusuf Babatunde
       </Typography>
     </Box>
   );
